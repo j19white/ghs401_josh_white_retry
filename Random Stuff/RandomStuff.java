@@ -7,8 +7,8 @@ public class RandomStuff
         
         System.out.println("Hi");
         for(int i=0; i < 5; i++){
-        double age = (int)(Math.random()*(8));
-        System.out.println("The number is " + (age+367) + "!");
+        double age = (int)(Math.random()*(8)+60);
+        System.out.println("The number is " + (age) + "!");
         
         
     }
