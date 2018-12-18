@@ -6,18 +6,7 @@ public class WhileLoops
     public static void main()
     {
      int age = -1;
-     //String name = Integer.parseInt(JOptionPane.showInputDialog("Please enter age"));
-    /* while(age<=0 || age>120)
      
-         
-          age = Integer.parseInt(JOptionPane.showInputDialog("Please enter age"));
-         
-         
-         
-     */
-        
-    //int number[] = new int[10];
-    //int numSquared[] = new int[10];
     double num;
     double numSquared;
     double random;

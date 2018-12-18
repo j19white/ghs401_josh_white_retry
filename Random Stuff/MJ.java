@@ -6,9 +6,10 @@ public class MJ
     public static void main()
     {
         String username = JOptionPane.showInputDialog("Enter school name:");
-        String mascot = JOptionPane.showInputDialog("What is the mascot?");
+        
         if(username.equals("Granada"))
         {
+            String mascot = JOptionPane.showInputDialog("What is the mascot?");
             if(mascot.equals("Matadors")){
                run();
                 
