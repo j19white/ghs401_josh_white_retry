@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Camel
+comment1.params=
+comment1.target=Camel()
+comment2.params=speed
+comment2.target=Camel(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

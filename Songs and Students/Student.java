@@ -13,7 +13,7 @@ public class Student
         this.age = 0;
         this.grade = 0;
         
-        
+        System.out.println("3");
     }
     
     public Student(String firstName, String lastName, int age, int grade){
@@ -22,6 +22,7 @@ public class Student
         this.age = age;
         this.grade = grade;
         
+        System.out.println("4");
         
     }
     public String toString(){

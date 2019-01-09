@@ -8,6 +8,7 @@ public class Driver
         
         Student student1 = new Student();
         Student student2 = new Student("Josh","White", 17, 12);
+        Student student3 = new Student();
         
         System.out.println(song1.toString());
         System.out.println("\n" + song2.toString());

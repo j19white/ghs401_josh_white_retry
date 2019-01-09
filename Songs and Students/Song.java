@@ -13,7 +13,7 @@ public class Song
         this.songCost = 0;
         this.songTime = 0.0;
         
-        
+        System.out.println("1");
     }
     public Song(String songTitle, String songArtist, double songCost, double songTime){
         this.songTitle = songTitle;
@@ -21,6 +21,7 @@ public class Song
         this.songCost = songCost;
         this.songTime = songTime;
         
+        System.out.println("2");
         
     }
     public String toString(){
