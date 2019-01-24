@@ -7,9 +7,9 @@ public class Alphabet
     public static void main()
     {
         
-        String q = "hello";
-        String s2 = "hello mike";
-        //System.out.println(q.compareTo(s2));
+        String q = "a";
+        String s2 = "b";
+        System.out.println(q.compareTo(s2));
         String[] myStringArray = new String[7]; 
         //String[] myStringArray2 = new String[7];
         String[] myStringArray3 = new String[myStringArray.length];

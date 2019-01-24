@@ -1,8 +1,13 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Song()
-comment1.params=songTitle\ songArtist\ songCost\ songTime
-comment1.target=Song(java.lang.String,\ java.lang.String,\ double,\ double)
-comment2.params=
-comment2.target=java.lang.String\ toString()
-numComments=3
+comment0.params=songTitle\ songArtist\ songCost\ lengthInSecs
+comment0.target=Song(java.lang.String,\ java.lang.String,\ double,\ int)
+comment0.text=public\ Song(){\r\n\ \ \ \ \ \ \ \ this.songTitle\ \=\ null;\r\n\ \ \ \ \ \ \ \ this.songArtist\ \=\ null;\r\n\ \ \ \ \ \ \ \ this.songCost\ \=\ 0;\r\n\ \ \ \ \ \ \ \ this.songTime\ \=\ 0.0;\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ //System.out.println("1");\r\n\ \ \ \ }\r\n
+comment1.params=
+comment1.target=int\ getLengthInSecs()
+comment2.params=newSeconds
+comment2.target=void\ setLengthInSecs(int)
+comment3.params=
+comment3.target=java.lang.String\ convertToMinSec()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

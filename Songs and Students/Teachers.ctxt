@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=name\ years
+comment0.target=Teachers(java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ numVowelsInName()
+comment2.params=
+comment2.target=int\ getYears()
+comment3.params=years
+comment3.target=void\ setYears(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
